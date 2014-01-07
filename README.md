@@ -8,9 +8,13 @@ This plugin will also insert random HTML for you
 Usage
 -----
 
-<code>{ipsum words=300 paragraphs=3}</code>
+```smarty
+{ipsum words=300 paragraphs=3}
+```
 
-<code><ul>{ipsum words=300 paragraphs=50 break-start="<li>" break-end=".</li>" html=true random=true}</ul></code>
+```smarty
+<ul>{ipsum words=300 paragraphs=50 break_start="<li>" break_end=".</li>" html=true random=true}</ul>
+```
 
 Parameters
 ----------

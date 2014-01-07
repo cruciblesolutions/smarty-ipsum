@@ -10,7 +10,7 @@ Usage
 
 <code>{ipsum words=300 paragraphs=3}</code>
 
-<code><ul>{ipsum words=300 paragraphs=50 break_start="<li>" break_end=".</li>" html=true random=true}</ul></code>
+<code><ul>{ipsum words=300 paragraphs=50 break-start="<li>" break-end=".</li>" html=true random=true}</ul></code>
 
 Parameters
 ----------
